@@ -1,0 +1,52 @@
+Illmatic,Nas,1994,HIPHOP
+Enter The Wu Tang,Wu-Tang Clan,1993,HIPHOP
+ATLiens,Outkast,1996,HIPHOP
+The Chronic,Dr. Dre,1992,HIPHOP
+Ready To Die,The Notorious B.I.G.,1994,HIPHOP
+Death Certificate,Ice Cube,1991,HIPHOP
+Fear of A Black Planet,Public Enemy,1990,HIPHOP
+AmeriKKKas Most Wanted,Ice Cube,1990,HIPHOP
+The Score,The Fugees,1996,HIPHOP
+Me Against The World,2Pac,1995,HIPHOP
+Breaking Atoms,Main Source,1991,HIPHOP
+Reasonable Doubt,Jay-Z,1996,HIPHOP
+Enta Da Stage,Black Moon,1993,HIPHOP
+Daily Operation,Gang Starr,1992,HIPHOP
+Naughty By Nature,Naughty By Nature,1991,HIPHOP
+All Eyez On Me,2Pac,1996,HIPHOP
+The Slim Shady LP,Eminem,1999,HIPHOP
+Let The Rhythm Hit 'Em,Eric B. & Rakim,1990,HIPHOP
+Life After Death,The Notorious B.I.G.,1997,HIPHOP
+Capital Punishment,Big Pun,1998,HIPHOP
+Ridin Dirty,UGK,1996,HIPHOP
+We Can't Be Stopped,Geto Boys,1991,HIPHOP
+It's Dark And Hell Is Hot,DMX,1998,HIPHOP
+E. 1999 Eternal,Bone Thugs-N-Harmony,1995,HIPHOP
+The Predator,Ice Cube,1992,HIPHOP
+Doggystyle,Snoop Dogg,1993,HIPHOP
+Forever My Lady,Jodeci,1991,R&B
+The Future,Guy,1990,R&B
+What's the 411,Mary J Blige,1992,R&B
+Poison,Bel Biv Devoe,1990,R&B
+Enter The Dru,Dru Hill,1998,R&B
+Anytime,Brian McKnight,1997,R&B
+Son of Soul,Tony! Toni! Tone!,1993,R&B
+Where I Wanna Be,Donell Jones,1999,R&B
+I'm Ready,Tevin Campbell,1993,R&B
+Another Love,Blackstreet,1996,R&B
+Miss Thang,Monica,1995,R&B
+Maxwell's Urban Hang Suite,Maxwell,1996,R&B
+The Velvet Rope,Janet Jackson,1997,R&B
+Dru Hill,Dru Hill,1996,R&B
+12 Play,R. Kelly,1993,R&B
+Baduizm,Erykah Badu,1997,R&B
+Everything,Joe,1993,R&B
+All That I Am,Joe,1997,R&B
+Diary of a Mad Band,Jodeci,1993,R&B
+One in a Million,Aaliyah,1996,R&B
+Brown Sugar,D'Angelo,1995,R&B
+The Miseducation of Lauryn Hill,Lauryn Hill,1998,R&B
+My Love Is Your Love,Whitney Houston,1998,R&B
+Age Ain't Nothing but a Number,Aaliyah,1994,R&B
+It's About Time,SWV,1992,R&B
+Keith Sweat,Keith Sweat,1996,R&B
